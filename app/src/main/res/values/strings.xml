@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cum Laude App</string>
+    <string name="description">CUMLAUDE GA YA???</string>
+    <string name="ip_input">IP sementara</string>
+    <string name="sks_temp">SKS sementara</string>
+    <string name="sks_all">SKS keseluruhan</string>
+    <string name="ipk_input">IPK cumlaude</string>
+    <string name="button_description">Hitung</string>
+    <string name="result_ip">Segini IP selanjutnya yang kamu butuhin %s</string>
+</resources>
